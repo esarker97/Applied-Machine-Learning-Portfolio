@@ -1,6 +1,7 @@
 # Applied-Machine-Learning-Portfolio
 Applied Machine Learning projects showcasing data analysis and predictive modeling skills. Includes housing price prediction, inflation forecasting, retail sales analysis, and water potability classification. Demonstrates proficiency in Python, machine learning algorithms, data visualization, and deriving actionable insights from complex datasets.
 This repository showcases a collection of my applied machine learning projects, demonstrating proficiency in data analysis, predictive modeling, and deriving actionable insights from complex datasets.
+
 Key projects include:
 
 Housing Price Analysis in Austin, TX: Developed regression models to predict housing prices in Austin, TX. Utilized techniques like feature engineering, random forests, and gradient boosting to improve model performance. Implemented extensive data cleaning and preprocessing on a dataset of over 15,000 listings.
