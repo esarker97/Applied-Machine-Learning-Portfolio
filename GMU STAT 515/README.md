@@ -6,15 +6,7 @@ Description
 The project analyzes a dataset of 3276 water samples with 9 chemical properties and a binary potability indicator. It employs data preprocessing, exploratory data analysis, and multiple machine learning models to predict water potability. The analysis includes visualization techniques such as histograms, density plots, correlation matrices, and feature importance plots.
 
 Installation
-To run this project, you'll need Python 3.x and the following libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-xgboost
-You can install these dependencies using pip:
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+To run this project, you'll need Python 3.x and the following libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, and xgboost. You can install these dependencies using pip with the command: pip install pandas numpy matplotlib seaborn scikit-learn xgboost.
 
 Usage
 Clone the repository and navigate to the project directory. Run the Jupyter notebook to perform the analysis and view the results. The notebook contains step-by-step explanations of the data processing, visualization, and modeling techniques used.
