@@ -15,4 +15,4 @@ Contributing:
 This project was completed as part of a course assignment. While it's not open for direct contributions, feedback and suggestions are welcome.
 
 License:
-This project is for educational purposes only.
+This project is for educational purposes only. The dataset used may have its own licensing terms.
