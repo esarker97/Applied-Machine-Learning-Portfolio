@@ -1,0 +1,5 @@
+This project contains two main Jupyter notebooks. The first is the EDA (Exploratory Data Analysis) Notebook. Its purpose is to focus on initial data exploration, cleaning, and preprocessing. This notebook covers data loading and initial inspection, handling missing values, feature engineering, correlation analysis, distribution analysis of key variables, and time series visualization of inflation trends.
+
+The second notebook is the Modeling Notebook. Its purpose is to implement and compare various machine learning models for inflation prediction. This notebook includes feature selection, implementation of multiple models (Linear Regression, Random Forest, XGBoost, SARIMAX, and Neural Prophet), model performance evaluation, feature importance analysis, and forecasting future inflation trends.
+
+The EDA notebook provides the foundation for understanding the dataset and preparing it for modeling. The Modeling notebook builds upon this prepared data to develop and compare different prediction approaches. Together, these notebooks form a comprehensive analysis pipeline from raw data to predictive insights on US inflation trends.
