@@ -21,4 +21,5 @@ Clone the repository and navigate to the project directory. Run the Jupyter note
 
 Contributing
 Contributions to improve the analysis or extend the project are welcome. Please fork the repository and submit a pull request with your proposed changes.
+
 License: This project is for educational purposes only. The dataset used may have its own licensing terms.
