@@ -19,13 +19,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn statsmodels geopy
 Usage:
 Clone the repository
 Navigate to the Notebooks directory
-Open and run the Jupyter notebooks in order:
 
-Data Preprocessing.ipynb
-Exploratory Data Analysis.ipynb
-Machine Learning Models.ipynb
-
-
+Open and run the Jupyter notebook:
+Austin TX House Predictions ML- May 2022.ipynb
 
 Contributing:
 Contributions to improve the project are welcome. Please follow these steps:
