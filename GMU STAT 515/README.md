@@ -1,4 +1,5 @@
 Water Quality Analysis Project
+
 This project explores water quality data to predict potability using various machine learning models. The dataset contains water quality metrics from different water bodies, aiming to determine if the water is safe for human consumption.
 
 Description
