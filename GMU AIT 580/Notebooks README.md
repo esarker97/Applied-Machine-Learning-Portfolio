@@ -1,42 +1,13 @@
-This project contains one main Jupyter notebook:
-Austin TX House Predictions ML- May 2022.ipynb:
-Purpose: This comprehensive notebook covers the entire data analysis and machine learning process for the Austin housing dataset.
-The notebook is structured into several key sections:
+This project contains one main Jupyter notebook: Austin TX House Predictions ML - May 2022.ipynb. The purpose of this comprehensive notebook is to cover the entire data analysis and machine learning process for the Austin housing dataset. The notebook is structured into several key sections.
 
-Data Loading and Initial Exploration:
+The first section, "Data Loading and Initial Exploration," imports the necessary libraries, loads the dataset, and performs initial data checks, including examining the data information, identifying duplicates, and checking for null values.
 
-Imports necessary libraries
-Loads the dataset
-Performs initial data checks (info, duplicates, nulls)
+The next section, "Exploratory Data Analysis and Preprocessing," visualizes data distributions, handles outliers, performs feature engineering (such as calculating the distance from the city center and creating zipcode categories), and scales time series data.
 
+In the "Feature Selection" section, the notebook calculates correlations, computes the Variance Inflation Factor (VIF), and uses SelectKBest for feature selection.
 
-Exploratory Data Analysis and Preprocessing:
+The "Machine Learning Models" section implements Multiple Linear Regression and Random Forest Regression. It also performs K-Nearest Neighbors Classification for home types and zipcode types.
 
-Visualizes data distributions
-Handles outliers
-Performs feature engineering (e.g., calculating distance from city center, creating zipcode categories)
-Scales time series data
+Finally, the "Model Evaluation" section calculates and interprets various performance metrics, including R-squared, Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE). Additionally, it generates visualizations of the model results.
 
-
-Feature Selection:
-
-Calculates correlations
-Computes Variance Inflation Factor (VIF)
-Uses SelectKBest for feature selection
-
-
-Machine Learning Models:
-
-Implements Multiple Linear Regression
-Implements Random Forest Regression
-Performs K-Nearest Neighbors Classification for home types and zipcode types
-
-
-Model Evaluation:
-
-Calculates and interprets various performance metrics (R-squared, MAE, RMSE)
-Generates visualizations of model results
-
-
-
-This notebook provides a comprehensive end-to-end analysis of the Austin housing dataset, from initial data exploration to the implementation and evaluation of multiple machine learning models.
+Overall, this notebook provides a comprehensive end-to-end analysis of the Austin housing dataset, from initial data exploration to the implementation and evaluation of multiple machine learning models.
