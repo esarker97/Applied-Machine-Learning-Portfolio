@@ -1,6 +1,6 @@
 Analysis Notebooks
-T
-his directory contains the Jupyter notebook used for the Miami Housing Prices Analysis project.
+
+This directory contains the Jupyter notebook used for the Miami Housing Prices Analysis project.
 
 Main Analysis Notebook:
 The notebook covers the entire analysis process, including data loading and initial exploration, data cleaning and preprocessing, exploratory data analysis (EDA), modeling, and results interpretation. It begins by reading the CSV file, checking for duplicates and null values, and performing initial data visualization. The data cleaning process involves outlier detection and removal, feature engineering, and normalization. The EDA section visualizes price distribution and analyzes relationships between various features and house prices, including correlation analysis. The modeling section includes both linear regression and random forest regression, with feature selection, model training and evaluation, and residual analysis for the linear model, and feature importance analysis and cross-validation for the random forest model. The notebook concludes with a comparison of model performances, visualization of predictions vs actual prices, and a discussion of findings in relation to the initial hypotheses. This comprehensive notebook guides the reader through the entire data analysis process, from initial data exploration to final model evaluation and interpretation of results.
